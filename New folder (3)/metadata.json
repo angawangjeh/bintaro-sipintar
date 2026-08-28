@@ -1,0 +1,6 @@
+{
+  "name": "SIPINTAR Bintaro",
+  "description": "Sistem Informasi Pindah Datang Bintaro (SIPINTAR) Kelurahan Bintaro, Kecamatan Pesanggrahan dengan desain Neumorphism modern, otentikasi multilevel, cetak surat resmi, dan statistik kependudukan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
